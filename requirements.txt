@@ -1,0 +1,11 @@
+fastjsonschema==2.20.0
+json5==0.9.25
+jsonpointer==3.0.0
+jsonschema==4.23.0
+jsonschema-specifications==2024.10.1
+python-json-logger==2.0.7
+torch==2.5.1+cpu
+torchaudio==2.5.1+cpu
+torchvision==0.20.1+cpu
+tqdm==4.67.1
+transformers==4.47.1
